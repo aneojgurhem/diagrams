@@ -1,6 +1,6 @@
 ![diagrams logo](assets/img/diagrams.png)
 
-# Diagrams
+#    Diagrams
 
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 [![pypi version](https://badge.fury.io/py/diagrams.svg)](https://badge.fury.io/py/diagrams)
